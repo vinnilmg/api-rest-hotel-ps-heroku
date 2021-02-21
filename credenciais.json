@@ -1,0 +1,9 @@
+{
+	"USER": "ubuntu",
+	"PASSWORD": "buibui10",
+	"HOST": "localhost",
+	"PORT": "5432",
+	"DATABASE": "ubuntu",
+	"JWT_SECRET_KEY": "IAmTheBatman",
+	"DATABASE_URL": "postgres://etabpfxvdpuecl:6533566b7b14909cc237f53f7a7fa9585d30c58375c30982dc7ae6463bc8927d@ec2-52-23-190-126.compute-1.amazonaws.com:5432/ddooeenpm7kijf"
+}
